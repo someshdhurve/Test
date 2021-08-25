@@ -1,0 +1,1 @@
+Create table Employee(Empid varchar2(10),Ename Varchar2(20));
